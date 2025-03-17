@@ -9,6 +9,9 @@
 - get base address ( eprocess + 0x520 ) 
 - get cr3 ( eprocess + 0x28 )
 
+# credits
+- credit to @vmstruct for the ntoskrnl importer
+
 # eac-bypass
 - still failing to code a eac bypass? sure im here for you!
 - i would sell you fully custom 1:1 driver or bootkit of your choice, prices start from $200 -> $1000
